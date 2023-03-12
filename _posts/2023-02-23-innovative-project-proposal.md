@@ -12,7 +12,7 @@ This homework is to specify a INnovative Project Proposal and describe the key f
 ## Futre Home Applications
 
 ### 智能冰箱
-<iframe width="993" height="559" src="[https://www.youtube.com/watch?v=E05KAskfou0](https://youtu.be/E05KAskfou0)" title="冰箱能有多智能<br> Top 7 Best Smart Refrigerators to upgrade your kitchen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="993" height="559" src="https://youtu.be/E05KAskfou0" title="冰箱能有多智能<br> Top 7 Best Smart Refrigerators to upgrade your kitchen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ## 智能冰箱
