@@ -13,7 +13,7 @@ This homework is to specify a INnovative Project Proposal and describe the key f
 
 ### 智能冰箱
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dE3B0W-H4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="900" height="500" src="https://www.youtube.com/embed/dE3B0W-H4JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ## 智能冰箱
