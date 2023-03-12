@@ -38,7 +38,7 @@ This homework is to specify a INnovative Project Proposal and describe the key f
 6. 網路服務及資料庫: 透過WIFI上傳食物資料至Firebase
 
 ### 系統方塊圖
-![](https://github.com/totochen/MCU_2023/images/FutureHome_flying_robot.png?raw=true)
+![](https://github.com/totochen/MCU_2023/blob/master/images/FutureHome_kitchen_robot.png?raw=true)
 
 
 
