@@ -38,7 +38,7 @@ This homework is to specify a INnovative Project Proposal and describe the key f
 5. 喜好推薦: 使用Php 程式設計, 記錄家庭成員行為, 學習成員喜好, 給予推薦
 
 ### 系統方塊圖
-![](https://github.com/totochen/MCU_2023/blob/master/images/system_block.JPG?raw=true)
+![](https://github.com/totochen/MCU_2023/blob/master/images/system_block.jpg?raw=true)
 
 
 
