@@ -12,10 +12,8 @@ This homework is to specify a INnovative Project Proposal and describe the key f
 ## Remote Control Car
 
 ### 遙控車
+<iframe width="993" height="559" src="https://www.youtube.com/embed/FWUkh23vBhs" title="BIGBUG Trailer (2022)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<video width="540" height="310" controls>
-  <source src="https://github.com/totochen/MCU_2023/blob/master/images/Demo_Remote_Control_Car.mp4" type="video/mp4">
-</video>
 
 ---
 ## Remote Control Car
