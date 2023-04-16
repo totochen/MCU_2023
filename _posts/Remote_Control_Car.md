@@ -12,9 +12,9 @@ This homework is to specify a INnovative Project Proposal and describe the key f
 ## Remote Control Car
 
 ### 遙控車
-
+<iframe>
 <video width="950" height="550" src="https://github.com/totochen/MCU_2023/blob/master/images/Demo_Remote_Control_Car.mp4" autoplay></video>
-
+</iframe>
 ---
 ## Remote Control Car
 ### 功能說明
