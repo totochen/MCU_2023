@@ -40,7 +40,8 @@ This homework is to specify a Remote Control Car, list all Design Considerations
 
 ### 3. 手機遙控器：利用App Inventor 2來設計手機應用程式，透過手機介面來控制汽車的行進方向 
 
-![](https://github.com/totochen/MCU_2023/blob/master/images/APP_UI.jpg){:height="500px" width="250px"}![](https://github.com/totochen/MCU_2023/blob/master/images/APP_Block.png){:height="500px" width="450px"}
+![](https://github.com/totochen/MCU_2023/blob/master/images/APP_UI.jpg?raw=true){:height="500px" width="250px"}
+![](https://github.com/totochen/MCU_2023/blob/master/images/APP_Block.png?raw=true){:height="500px" width="450px"}
 
 ## Arduino Code(Wi-Fi版)
 
