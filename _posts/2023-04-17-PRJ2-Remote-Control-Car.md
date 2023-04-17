@@ -29,7 +29,7 @@ This homework is to specify a Remote Control Car, list all Design Considerations
 
 ### 1. 電路設計：利用ESP32來設計搖控汽車的電路設計，電路圖如下：
 
-![](https://github.com/totochen/MCU_2023/blob/master/images/circuit.jpg?raw=true){:height="400px" width="400px" align="center"}
+![](https://github.com/totochen/MCU_2023/blob/master/images/circuit.jpg?raw=true){:height="500px" width="500px" align-content="center"}
 
 
 ### 2. 遙控車完成圖 
