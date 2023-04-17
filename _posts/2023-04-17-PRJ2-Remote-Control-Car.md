@@ -45,7 +45,7 @@ This homework is to specify a Remote Control Car, list all Design Considerations
 
 ## Arduino Code(Wi-Fi版)
 
-![](https://github.com/totochen/MCU_2023/blob/master/images/PRG.png?raw=true){:height="700px" width="600px"}
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRG.png?raw=true){:height="900px" width="800px"}
 
 
 
