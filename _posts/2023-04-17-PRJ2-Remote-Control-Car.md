@@ -23,20 +23,27 @@ This homework is to specify a Remote Control Car, list all Design Considerations
 
 
 ## 系統設計：
-**1. 供電方式:電池 **<br>
-**2. 聯網方式: WiFi **<br>
+### 供電方式:電池 
+### 聯網方式: WiFi
 
-## 相關技術：
-**1. 電路設計：利用ESP32來設計搖控汽車的電路設計，電路圖如下：** <br>
+### 1. 電路設計：利用ESP32來設計搖控汽車的電路設計，電路圖如下：
 
-![](https://github.com/totochen/MCU_2023/blob/master/images/circuit.jpg)
+![](https://github.com/totochen/MCU_2023/blob/master/images/circuit.jpg?raw=true&width=100x )
 
-**2. 遙控車完成圖 **
+
+### 2. 遙控車完成圖 
+
 ![](https://github.com/totochen/MCU_2023/blob/master/images/remote_car.jpg?raw=true)
-**3. 手機遙控器：利用App Inventor 2來設計手機應用程式，透過手機介面來控制汽車的行進方向 **
+
+
+
+### 3. 手機遙控器：利用App Inventor 2來設計手機應用程式，透過手機介面來控制汽車的行進方向 
+
 ![](https://github.com/totochen/MCU_2023/blob/master/images/APP_UI.jpg?raw=true)
 
-### 系統方塊圖
+
+## Arduino Code(Wi-Fi版)
+
 
 
 
