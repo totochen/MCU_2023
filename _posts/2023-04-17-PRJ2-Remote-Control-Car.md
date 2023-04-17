@@ -9,6 +9,7 @@ tags: [Remote Control, Arduino]
 This homework is to specify a Remote Control Car, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
 ---
+
 # 藍芽遙控機器人 (Remote Control Robot)
 
 ## 影片展示 : 藍芽遙控機器人 (Remote Control Robot)
@@ -28,7 +29,7 @@ This homework is to specify a Remote Control Car, list all Design Considerations
 
 ### 1. 電路設計：利用ESP32來設計搖控汽車的電路設計，電路圖如下：
 
-![](https://github.com/totochen/MCU_2023/blob/master/images/circuit.jpg?raw=true&width=100x )
+![](https://github.com/totochen/MCU_2023/blob/master/images/circuit.jpg?raw=true){:height="100px" width="400px"}
 
 
 ### 2. 遙控車完成圖 
