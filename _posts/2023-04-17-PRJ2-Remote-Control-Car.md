@@ -24,8 +24,12 @@ This homework is to specify a Remote Control Car, list all Design Considerations
 
 
 ## 系統設計：
-### 供電方式:電池 
+### 供電方式:鋰電池 3.7V x2 
 ### 聯網方式: WiFi
+### 操作方式:WebUI
+### 移動方式:兩輪
+### 原始套件:
+![](https://github.com/totochen/MCU_2023/blob/master/images/org_tools.jpg?raw=true){:height="500px" width="600px"}
 
 ### 1. 電路設計：利用ESP32來設計搖控汽車的電路設計，電路圖如下：
 
