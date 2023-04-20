@@ -60,5 +60,5 @@ This homework is to specify a Remote Control Car, list all Design Considerations
 <br>
 <br>
 
-*This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
+*This site was last updated April 17, 2023.*
 
