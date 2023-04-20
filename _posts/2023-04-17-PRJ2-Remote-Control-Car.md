@@ -19,13 +19,13 @@ This homework is to specify a Remote Control Car, list all Design Considerations
 ---
 
 ## 功能說明
-**1. Wifi或Bluetooth聯網：利用手機熱點WiFi連線** <br>
+**1. 藍芽Bluetooth聯網** <br>
 **2. 手機遙控APP：利用手機來遙控汽車.可以前進、後退、左轉、右轉。** <br>
 
 
 ## 系統設計：
 ### 供電方式:鋰電池 3.7V x2 
-### 聯網方式: WiFi
+### 聯網方式: 藍芽(Bluetooth)
 ### 操作方式:WebUI
 ### 移動方式:兩輪
 ### 原始套件:
@@ -46,12 +46,12 @@ This homework is to specify a Remote Control Car, list all Design Considerations
 ![](https://github.com/totochen/MCU_2023/blob/master/images/Sys_Block.png?raw=true){:height="500px" width="600px"}
 
 
-### 4. 手機遙控器：利用App Inventor 2來設計手機應用程式，透過手機介面來控制汽車的行進方向 
+### 4. 手機遙控器：利用App Inventor來設計手機應用程式，透過手機介面來控制汽車的行進方向 
 
 ![](https://github.com/totochen/MCU_2023/blob/master/images/APP_UI.jpg?raw=true){:height="500px" width="250px"}
 ![](https://github.com/totochen/MCU_2023/blob/master/images/APP_Block.png?raw=true){:height="500px" width="450px"}
 
-## Arduino Code(Wi-Fi版)
+## Arduino Code(藍芽)
 
 ![](https://github.com/totochen/MCU_2023/blob/master/images/PRG.png?raw=true){:height="900px" width="800px"}
 
