@@ -54,4 +54,4 @@ This homework is to specify a tempature and humidity sensor, list all Design Con
 <br>
 <br>
 
-*This site was last updated May 02, 2023.*
+*This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
