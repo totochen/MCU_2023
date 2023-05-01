@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ESP32 GPIO
-author: [Richard Kuo]
+title: Over the Air
+author: [TOTO CHEN]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
