@@ -14,20 +14,22 @@ This homework is to specify a temperature and humidity sensor, list all Design C
 
 ## 影片展示 : 溫濕度感應器 (Tempature and Humidity Sensor)
 <div align="center">
+<!--
 <iframe width="320" height="560" src="https://www.youtube.com/embed/kDWMcbzpWGE?autoplay=1&loop=1" title="Demo Remote Control Car" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+-->
 </div>
 ---
 
 ## 功能說明
-**1. 藍芽Bluetooth聯網** <br>
-**2. ** <br>
+**1. WiFi聯網** <br>
+**2. 溫溼度感應器的偵測結果,由手機控制傳送至另一手機, 資訊分享** <br>
 
 
 ## 系統設計：
-### 供電方式:鋰電池 3.7V x2 
 ### 聯網方式: 藍芽(Bluetooth)
 ### 操作方式:WebUI
 ### 
+<!--
 ### 原始套件:
 ![](https://github.com/totochen/MCU_2023/blob/master/images/org_tools.jpg?raw=true){:height="500px" width="600px"}
 
@@ -50,7 +52,7 @@ This homework is to specify a temperature and humidity sensor, list all Design C
 
 
 
-
+-->
 <br>
 <br>
 
