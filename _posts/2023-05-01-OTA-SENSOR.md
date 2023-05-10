@@ -6,48 +6,38 @@ category: [Lecture]
 tags: [IoT]
 ---
 
-This homework is to specify a temperature and humidity sensor, list all Design Considerations and the required technologies, then draw the System Block Diagram.
+The Internet of Smart Home Appliances is the remote control of home appliances through mobile phones. This project uses mobile phones to simulate remote control of home lights through the Internet. The content of the page list all Design Considerations and the required technologies.
 
 ---
 
 # OTA (Over The Air)
+## 非同步ESP32_Webserver 控制家電關開關
 
-## 影片展示 : OTA (Over the Air)
-<div align="center">
-<iframe width="320" height="560" src="https://www.youtube.com/embed/kDWMcbzpWGE?autoplay=1&loop=1" title="Demo Remote Control Car" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
 ---
 
 ## 功能說明
-**1. 藍芽Bluetooth聯網** <br>
-**2.   ** <br>
+**1. 透過WiFi 聯網 ** <br>
+**2. 透過手機->Webserver->遙控LED燈  ** <br>
 
 
 ## 系統設計：
-### 供電方式:鋰電池 3.7V x2 
-### 聯網方式: 藍芽(Bluetooth)
+### 聯網方式: WiFi
 ### 操作方式:WebUI
-### 
-### 原始套件:
-![](https://github.com/totochen/MCU_2023/blob/master/images/org_tools.jpg?raw=true){:height="500px" width="600px"}
 
-### 1. 電路設計：利用ESP32來設計搖控汽車的電路設計，電路圖如下：
+### 1. 電路設計：利用ESP32來設計家用LED燈的控制電路設計，電路圖如下：
 
-![](https://github.com/totochen/MCU_2023/blob/master/images/circuit.jpg?raw=true){:height="500px" width="600px"}
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_CIRCUIT_DIAG.jpg?raw=true){:height="300px" width="400px"}
 
 
-### 2. 遙控車完成圖 
+### 2. 手機操作遙控介面完成圖 
+###控制畫面及顯示LED 是ON 狀態
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_LED_ON.jpg?raw=true){:height="300px" width="400px"}
+<br>
+###控制畫面及顯示LED 是OFF 狀態
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_LED_OFF.jpg?raw=true){:height="300px" width="400px"}
 
-![](https://github.com/totochen/MCU_2023/blob/master/images/remote_car.jpg?raw=true){:height="500px" width="600px"}
-
-
-### 3. 系統架構圖 
-
-![](https://github.com/totochen/MCU_2023/blob/master/images/Sys_Block_1.jpg?raw=true){:height="500px" width="600px"}
-
-
-### 4. 程式設計： 
-
+### 3. 程式設計： 
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_PRG.png?raw=true)
 
 
 
