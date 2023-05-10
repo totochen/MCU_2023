@@ -31,10 +31,10 @@ The Internet of Smart Home Appliances is the remote control of home appliances t
 
 ### 2. 手機操作遙控介面完成圖 
 ###控制畫面及顯示LED 是ON 狀態
-![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_LED_ON.jpg?raw=true){:height="300px" width="400px"}
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_LED_ON.jpg?raw=true){:height="300px" width="200px"}
 <br>
 ###控制畫面及顯示LED 是OFF 狀態
-![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_LED_OFF.jpg?raw=true){:height="300px" width="400px"}
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_LED_OFF.jpg?raw=true){:height="300px" width="200px"}
 
 ### 3. 程式設計： 
 ![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_PRG.png?raw=true)
@@ -44,5 +44,5 @@ The Internet of Smart Home Appliances is the remote control of home appliances t
 <br>
 <br>
 
-*This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
+*This site was last updated May 07, 2023.*
 
