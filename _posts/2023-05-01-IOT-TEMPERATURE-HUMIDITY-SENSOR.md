@@ -13,11 +13,13 @@ This homework is to specify a temperature and humidity sensor, list all Design C
 # 濕度感應器 (Tempature and Humidity Sensor)
 
 ## 影片展示 : 溫濕度感應器 (Tempature and Humidity Sensor)
-<div align="center">
 <!--
+<div align="center">
+
 <iframe width="320" height="560" src="https://www.youtube.com/embed/kDWMcbzpWGE?autoplay=1&loop=1" title="Demo Remote Control Car" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
--->
+
 </div>
+-->
 ---
 
 ## 功能說明
