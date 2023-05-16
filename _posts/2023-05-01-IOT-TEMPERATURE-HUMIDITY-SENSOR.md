@@ -55,9 +55,12 @@ This homework is to specify a temperature and humidity sensor, list all Design C
 ![](https://github.com/totochen/MCU_2023/blob/master/images/HTU21_Sensor_Value.png?raw=true)
 
 
-### 4. 程式設計： 
+### 5. 程式設計： 
+### Client端程式
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ3_PRG_Client.png?raw=true)
 
-
+### Server端程式
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ3_PRG_Server.png?raw=true)
 
 
 <br>
