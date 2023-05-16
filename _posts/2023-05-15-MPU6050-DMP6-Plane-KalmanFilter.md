@@ -1,18 +1,19 @@
 ---
 layout: post
-title: 藍芽遙控機器人(Remote Control Robot)
+title: MPU6050 and KalmanFilter 應用: 控制模型飛機 (MPU6050 and KalmanFilter Application: control model airplane)
 author: [Toto Chen]
 category: [Lecture]
-tags: [Remote Control, Arduino]
+tags: [MPU6050, Kalman Filter, model plane, Remote Control, Arduino]
 ---
 
-This homework is to specify a Remote Control Car, list all Design Considerations and the required technologies, then draw the System Block Diagram.
+This homework is the application of MPU 6050 to control model airplane. The high-precision MPU6050 gyroscope and accelerometer are used to read the measurement data of the MPU6050 through the processor, and then calculated by Kalman filtering, and the (angular) acceleration is directly output through the serial port. The use of Kalman filter calculation and PCB layout ensures that the MPU6050 receives the least external interference and the highest measurement accuracy.
 
 ---
 
-# 藍芽遙控機器人 (Remote Control Robot)
+# MPU6050 and KalmanFilter 應用: 控制模型飛機 (MPU6050 and KalmanFilter Application: control model airplane)
+## 採用高精度的MPU6050陀螺儀和加速度計，通過處理器讀取MPU6050的測量數據、然後經過卡爾曼濾波計算，通過串口直接輸出(角)加速度。利用卡爾曼濾波計算和PCB佈局，保證了MPU6050收到外接的干擾最小，測量的精度最高。這個專題是應用MPU 6050 控製模型飛機
 
-## 影片展示 : 藍芽遙控機器人 (Remote Control Robot)
+## 影片展示 : MPU6050 and KalmanFilter 應用: 控制模型飛機 (MPU6050 & Kalman Filter to Control plane)
 <div align="center">
 <iframe width="320" height="560" src="https://www.youtube.com/embed/kDWMcbzpWGE?autoplay=1&loop=1" title="Demo Remote Control Car" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
@@ -60,5 +61,5 @@ This homework is to specify a Remote Control Car, list all Design Considerations
 <br>
 <br>
 
-*This site was last updated April 17, 2023.*
+*This site was last updated May 15, 2023.*
 
