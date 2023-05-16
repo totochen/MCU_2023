@@ -15,7 +15,11 @@ This homework is the application of MPU 6050 to control model airplane. The high
 
 ## 影片展示 : MPU6050 and KalmanFilter 應用: 控制模型飛機 (MPU6050 & Kalman Filter to Control plane)
 <div align="center">
-<iframe width="320" height="560" src="https://www.youtube.com/embed/kDWMcbzpWGE?autoplay=1&loop=1" title="Demo Remote Control Car" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="320" height="560" src="https://www.youtube.com/embed/0r0MIXIC1fU?autoplay=1&loop=1" title="Demo Remote Control Car" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div align="center">
+<iframe width="320" height="560" src="https://www.youtube.com/embed/oaJ4WSZCa2g?autoplay=1&loop=1" title="Demo Remote Control Car" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 ---
 
