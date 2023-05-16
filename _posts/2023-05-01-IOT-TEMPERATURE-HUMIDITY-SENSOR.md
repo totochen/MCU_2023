@@ -45,14 +45,14 @@ This homework is to specify a temperature and humidity sensor, list all Design C
 
 ### 3. DHT22 溫溼度感測器
 ### 開始測試前
-![](https://github.com/totochen/MCU_2023/blob/master/images/DHT22_Ssensor_Initial.jpg?raw=true)
+![](https://github.com/totochen/MCU_2023/blob/master/images/DHT22_Sensor_Initial.png?raw=true)
 
 ### 接收到溫溼度感測結果
-![](https://github.com/totochen/MCU_2023/blob/master/images/DHT22_Sensor_Value.jpg?raw=true)
+![](https://github.com/totochen/MCU_2023/blob/master/images/DHT22_Sensor_Value.png?raw=true)
 
 ### 4. HTU21 數位微型溫濕度感測器
 ### 接收到溫溼度感測結果
-![](https://github.com/totochen/MCU_2023/blob/master/images/HTU21_Sensor_Value.jpg?raw=true)
+![](https://github.com/totochen/MCU_2023/blob/master/images/HTU21_Sensor_Value.png?raw=true)
 
 
 ### 4. 程式設計： 
