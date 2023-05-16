@@ -22,8 +22,9 @@ This homework is to specify a temperature and humidity sensor, list all Design C
 ---
 
 ## 功能說明
-**1. WiFi聯網** <br>
-**2. 溫溼度感應器的偵測結果,由手機控制傳送至另一手機, 資訊分享** <br>
+**1. 偵測周遭環境的溫溼度感應器** <br>
+**2. 溫溼度偵測結果，定時由Client端上傳至Server端。**<br>
+**3. 透過手機可以看到即時遠端的溫溼度** <br>
 
 
 ## 系統設計：
