@@ -15,8 +15,8 @@ This homework is to specify a temperature and humidity sensor, list all Design C
 ## 影片展示 : 溫濕度感應器 (Tempature and Humidity Sensor)
 <!--
 <div align="center">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/LnylPsm3WLg" title="HTU21 Sensor Load" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="320" height="560" src="https://www.youtube.com/embed/kDWMcbzpWGE?autoplay=1&loop=1" title="Demo Remote Control Car" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 -->
