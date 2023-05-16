@@ -13,13 +13,12 @@ This homework is to specify a temperature and humidity sensor, list all Design C
 # 濕度感應器 (Tempature and Humidity Sensor)
 
 ## 影片展示 : 溫濕度感應器 (Tempature and Humidity Sensor)
-<!--
+
 <div align="center">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/LnylPsm3WLg" title="HTU21 Sensor Load" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 </div>
--->
+
 ---
 
 ## 功能說明
