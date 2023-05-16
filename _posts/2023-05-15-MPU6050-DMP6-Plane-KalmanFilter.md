@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MPU6050 and KalmanFilter 應用: 控制模型飛機 (MPU6050 and KalmanFilter Application: control model airplane)
+title: MPU6050 and KalmanFilter 應用: 控制模型飛機
 author: [Toto Chen]
 category: [Lecture]
 tags: [MPU6050, Kalman Filter, Model plane, Remote Control, Arduino]
