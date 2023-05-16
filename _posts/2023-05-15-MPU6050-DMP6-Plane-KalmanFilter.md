@@ -3,7 +3,7 @@ layout: post
 title: MPU6050 and KalmanFilter 應用: 控制模型飛機 (MPU6050 and KalmanFilter Application: control model airplane)
 author: [Toto Chen]
 category: [Lecture]
-tags: [MPU6050, Kalman Filter, model plane, Remote Control, Arduino]
+tags: [MPU6050, Kalman Filter, Model plane, Remote Control, Arduino]
 ---
 
 This homework is the application of MPU 6050 to control model airplane. The high-precision MPU6050 gyroscope and accelerometer are used to read the measurement data of the MPU6050 through the processor, and then calculated by Kalman filtering, and the (angular) acceleration is directly output through the serial port. The use of Kalman filter calculation and PCB layout ensures that the MPU6050 receives the least external interference and the highest measurement accuracy.
