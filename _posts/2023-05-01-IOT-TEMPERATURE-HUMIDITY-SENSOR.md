@@ -66,5 +66,5 @@ This homework is to specify a temperature and humidity sensor, list all Design C
 <br>
 <br>
 
-*This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
+*This site was last updated May 04, 2023.*
 
