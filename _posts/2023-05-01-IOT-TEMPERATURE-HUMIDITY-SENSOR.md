@@ -13,9 +13,17 @@ This homework is to specify a temperature and humidity sensor, list all Design C
 # 濕度感應器 (Tempature and Humidity Sensor)
 
 ## 影片展示 : 溫濕度感應器 (Tempature and Humidity Sensor)
+### 說明：展示溫溼度感測器將偵測到的溫溼度，透過client端，上傳至server端。利用手機查看遠端環境的溫溼度
 
 <div align="center">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/LnylPsm3WLg?autoplay=1&loop=1" title="HTU21 Sensor Load" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+### 說明：溫溼度感測器每隔一段時間，會自動將偵測到的溫溼度，透過client端，上傳至server端。利用手機可以重整頁面資料，查看即時遠端環境的溫溼度
+
+<div align="center">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/iD3TQeTwKZs?autoplay=1&loop=1" title="HTU21 Sensor Reload" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
 
@@ -28,19 +36,23 @@ This homework is to specify a temperature and humidity sensor, list all Design C
 
 
 ## 系統設計：
-### 聯網方式: 藍芽(Bluetooth)
-### 操作方式:WebUI
-### 
-
 ### 1. 電路設計：利用ESP32來設計溫溼度感測器的電路設計，電路圖如下：
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ3_circuit.png?raw=true)
+
+### 2. 系統架構圖
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ3_System_Arch.png?raw=true)
 
 
-### 2. 溫溼度感測器完成圖 
+### 3. DHT22 溫溼度感測器
+### 開始測試前
+![](https://github.com/totochen/MCU_2023/blob/master/images/DHT22_Ssensor_Initial.jpg?raw=true)
 
+### 接收到溫溼度感測結果
+![](https://github.com/totochen/MCU_2023/blob/master/images/DHT22_Sensor_Value.jpg?raw=true)
 
-### 3. 系統架構圖 
-
-
+### 4. HTU21 數位微型溫濕度感測器
+### 接收到溫溼度感測結果
+![](https://github.com/totochen/MCU_2023/blob/master/images/HTU21_Sensor_Value.jpg?raw=true)
 
 
 ### 4. 程式設計： 
