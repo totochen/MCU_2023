@@ -36,12 +36,12 @@ This homework is the application of MPU 6050 to control model airplane. The high
 
 
 
-### 2. 模型飛機完成圖 
+### 2. 系統架構圖 
 
 
 
 
-### 3. 系統架構圖 
+### 3. 程式碼 
 
 
 
