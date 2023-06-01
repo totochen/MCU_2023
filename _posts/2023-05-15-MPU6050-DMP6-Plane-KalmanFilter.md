@@ -32,12 +32,12 @@ This homework is the application of MPU 6050 to control model airplane. The high
 
 
 ### 1. 電路設計：
-
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ5_circuit.png?raw=true)
 
 
 
 ### 2. 系統架構圖 
-
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ5_System_Arch.png?raw=true)
 
 
 
