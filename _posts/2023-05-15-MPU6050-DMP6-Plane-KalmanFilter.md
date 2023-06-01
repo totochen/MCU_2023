@@ -27,25 +27,23 @@ This homework is the application of MPU 6050 to control model airplane. The high
 **1. 藍芽Bluetooth聯網** <br>
 **2. 利用陀螺儀和加速度計來模擬飛機飛行** <br>
 
-
 ## 系統設計：
-
-
 ### 1. 電路設計：
 ![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ5_circuit.png?raw=true)
-
 
 
 ### 2. 系統架構圖 
 ![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ5_System_Arch.png?raw=true)
 
 
-
 ### 3. 程式碼 
+**1. Teapot** <br>
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ5_PRG_Teapot.png?raw=true)
 
 
-
-### 4.  
+**2. KalmanFilter** <br>
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ5_PRG_KalmanFilter.png?raw=true)
+  
 
 
 
