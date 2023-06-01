@@ -26,17 +26,19 @@ The Internet of Smart Home Appliances is the remote control of home appliances t
 
 ### 1. 電路設計：利用ESP32來設計家用LED燈的控制電路設計，電路圖如下：
 
-![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_CIRCUIT_DIAG.jpg?raw=true){:height="300px" width="400px"}
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_CIRCUIT_DIAG.jpg?raw=true)
 
+### 2. 系統架構圖：
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_System_Arch.png?raw=true)
 
-### 2. 手機操作遙控介面完成圖 
+### 3. 手機操作遙控介面完成圖 
 ###控制畫面及顯示LED 是ON 狀態
-![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_LED_ON.jpg?raw=true){:height="300px" width="200px"}
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_LED_ON.jpg?raw=true)
 <br>
 ###控制畫面及顯示LED 是OFF 狀態
-![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_LED_OFF.jpg?raw=true){:height="300px" width="200px"}
+![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_LED_OFF.jpg?raw=true)
 
-### 3. 程式設計： 
+### 4. 程式設計： 
 ![](https://github.com/totochen/MCU_2023/blob/master/images/PRJ4_PRG.png?raw=true)
 
 
